@@ -5,11 +5,11 @@
 
 <h3>About me:</h3>
 <p>
-I'm an aspiring <strong>Software Engineer</strong> 👨‍💻 and <strong>Full-Stack Developer</strong> 💻 passionate about building efficient applications. My tech stack includes frontend technologies like <strong>HTML, CSS, JavaScript, React, and TailwindCSS</strong> 🌐, along with backend skills in <strong>Java, Spring Boot, and MySQL</strong> 🛠️. I also work with <strong>AWS, Postman, Git, and Docker</strong> ☁️🗃️.
+I'm an aspiring <strong>Software Engineer</strong> 👨‍💻 and <strong>Full-Stack Developer</strong>  passionate about building efficient applications. My tech stack includes frontend technologies like <strong>HTML, CSS, JavaScript, React, and TailwindCSS</strong> 🌐, along with backend skills in <strong>Java, Spring Boot, and MySQL</strong> 🛠️. I also work with <strong>AWS, Postman, Git, and Github</strong> .
 </p>
 
 <p>
-With a background in <strong>product design</strong> 🖥️ and <strong>problem-solving</strong> 🔧, I have optimized metal 3D printers at Intech Additive Solutions, provided design services on Fiverr, instructed courses on edtech platforms 🎓, and led a college design team in the Robocon competition 🏆.
+With a background in <strong>product design</strong> and <strong>problem-solving</strong> 🔧, I have optimized metal 3D printers at Intech Additive Solutions, provided design services on Fiverr, instructed courses on edtech platforms, and led a college design team in the Robocon competition 🏆.
 </p>
 
 <p>
