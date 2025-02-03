@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Yash Mokashi</h1>
 <h3 align="center">Aspiring Software Engineer | Full-Stack Developer</h3>
 
+###About me:
+<p>Holding a B.Tech in Mechatronics and Automation, I am now transitioning into the software industry to combine my engineering expertise with technology, solving real-world problems through code and innovation.</p>
 - 🌱 I’m currently learning **React & Spring-boot**
 
 - 📫 How to reach me **yashmokashi013@gmail.com**
