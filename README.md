@@ -5,7 +5,7 @@
 
 <h3>About me:</h3>
 <p>
-I'm an aspiring Software Engineer and Full-Stack Developer passionate about building efficient applications. My tech stack includes frontend technologies like <strong>HTML, CSS, JavaScript, React, and TailwindCSS</strong>, along with backend skills in <strong>Java, Spring Boot, and MySQL</strong>. I also work with <strong>AWS, Postman, Git, and Docker</strong>.
+I'm an aspiring Software Engineer and Full-Stack Developer passionate about building efficient applications. My tech stack includes frontend technologies like <strong>HTML, CSS, JavaScript, React, and TailwindCSS</strong>, along with backend skills in <strong>Java, Spring Boot, and MySQL</strong>. I also work with <strong>AWS, Postman, Git & Github.</strong>.
 </p>
 
 <p>
