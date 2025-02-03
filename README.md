@@ -3,8 +3,9 @@
 <h1 align="center">Hi 👋, I'm Yash Mokashi</h1>
 <h3 align="center">Aspiring Software Engineer | Full-Stack Developer</h3>
 
-###About me:
-<p>Holding a B.Tech in Mechatronics and Automation, I am now transitioning into the software industry to combine my engineering expertise with technology, solving real-world problems through code and innovation.</p>
+<h3>About me:</h3>
+<p>I'm an aspiring Software Engineer and Full-Stack Developer passionate about building efficient applications. My tech stack includes frontend technologies like HTML, CSS, JavaScript, React, and TailwindCSS, along with backend skills in Java, Spring Boot, and MySQL. I also work with AWS, Postman, Git, and Docker. With a background in product design and problem-solving, I have optimized metal 3D printers at Intech Additive Solutions, provided design services on Fiverr, instructed courses on edtech platforms, and led a college design team in the Robocon competition. Holding a B.Tech in Mechatronics and Automation, I am now transitioning into the software industry to apply my engineering expertise in solving real-world problems through technology. Currently, I am exploring fullstck ,system design and DSA to enhance my problem-solving skills. I'm always open to learning, collaborating, and contributing to impactful projects.</p>
+
 - 🌱 I’m currently learning **React & Spring-boot**
 
 - 📫 How to reach me **yashmokashi013@gmail.com**
