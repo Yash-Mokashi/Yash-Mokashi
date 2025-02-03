@@ -1,3 +1,5 @@
+![Banner](https://github.com/Yash-Mokashi/Yash-Mokashi/blob/main/banner.png)
+
 <h1 align="center">Hi 👋, I'm Yash Mokashi</h1>
 <h3 align="center">Aspiring Software Engineer | Full-Stack Developer</h3>
 
