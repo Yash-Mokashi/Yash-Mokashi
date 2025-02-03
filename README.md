@@ -4,7 +4,21 @@
 <h3 align="center">Aspiring Software Engineer | Full-Stack Developer</h3>
 
 <h3>About me:</h3>
-<p>I'm an aspiring Software Engineer and Full-Stack Developer passionate about building efficient applications. My tech stack includes frontend technologies like HTML, CSS, JavaScript, React, and TailwindCSS, along with backend skills in Java, Spring Boot, and MySQL. I also work with AWS, Postman, Git, and Docker. With a background in product design and problem-solving, I have optimized metal 3D printers at Intech Additive Solutions, provided design services on Fiverr, instructed courses on edtech platforms, and led a college design team in the Robocon competition. Holding a B.Tech in Mechatronics and Automation, I am now transitioning into the software industry to apply my engineering expertise in solving real-world problems through technology. Currently, I am exploring fullstck ,system design and DSA to enhance my problem-solving skills. I'm always open to learning, collaborating, and contributing to impactful projects.</p>
+<p>
+I'm an aspiring Software Engineer and Full-Stack Developer passionate about building efficient applications. My tech stack includes frontend technologies like <strong>HTML, CSS, JavaScript, React, and TailwindCSS</strong>, along with backend skills in <strong>Java, Spring Boot, and MySQL</strong>. I also work with <strong>AWS, Postman, Git, and Docker</strong>.
+</p>
+
+<p>
+With a background in product design and problem-solving, I have optimized metal 3D printers at Intech Additive Solutions, provided design services on Fiverr, instructed courses on edtech platforms, and led a college design team in the Robocon competition.
+</p>
+
+<p>
+Holding a <strong>B.Tech in Mechatronics and Automation</strong>, I am now transitioning into the software industry to apply my engineering expertise in solving real-world problems through technology. Currently, I am exploring <strong>full-stack development, system design, and DSA</strong> to enhance my problem-solving skills.
+</p>
+
+<p>
+I'm always open to learning, collaborating, and contributing to impactful projects.
+</p>
 
 - 🌱 I’m currently learning **React & Spring-boot**
 
