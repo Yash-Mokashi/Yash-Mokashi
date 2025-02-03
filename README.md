@@ -5,24 +5,22 @@
 
 <h3>About me:</h3>
 <p>
-I'm an aspiring Software Engineer and Full-Stack Developer passionate about building efficient applications. My tech stack includes frontend technologies like <strong>HTML, CSS, JavaScript, React, and TailwindCSS</strong>, along with backend skills in <strong>Java, Spring Boot, and MySQL</strong>. I also work with <strong>AWS, Postman, Git & Github.</strong>.
+I'm an aspiring <strong>Software Engineer</strong> 👨‍💻 and <strong>Full-Stack Developer</strong> 💻 passionate about building efficient applications. My tech stack includes frontend technologies like <strong>HTML, CSS, JavaScript, React, and TailwindCSS</strong> 🌐, along with backend skills in <strong>Java, Spring Boot, and MySQL</strong> 🛠️. I also work with <strong>AWS, Postman, Git, and Docker</strong> ☁️🗃️.
 </p>
 
 <p>
-With a background in product design and problem-solving, I have optimized metal 3D printers at Intech Additive Solutions, provided design services on Fiverr, instructed courses on edtech platforms, and led a college design team in the Robocon competition.
+With a background in <strong>product design</strong> 🖥️ and <strong>problem-solving</strong> 🔧, I have optimized metal 3D printers at Intech Additive Solutions, provided design services on Fiverr, instructed courses on edtech platforms 🎓, and led a college design team in the Robocon competition 🏆.
 </p>
 
 <p>
-Holding a <strong>B.Tech in Mechatronics and Automation</strong>, I am now transitioning into the software industry to apply my engineering expertise in solving real-world problems through technology. Currently, I am exploring <strong>full-stack development, system design, and DSA</strong> to enhance my problem-solving skills.
+Holding a <strong>B.Tech in Mechatronics and Automation</strong> 🎓, I am now transitioning into the software industry to apply my engineering expertise in solving real-world problems through technology. Currently, I am exploring <strong>full-stack development, system design, and DSA</strong> 💡 to enhance my problem-solving skills.
 </p>
 
 <p>
-I'm always open to learning, collaborating, and contributing to impactful projects.
+I'm always open to learning 📚, collaborating 🤝, and contributing to impactful projects 🌍.
 </p>
 
-- 🌱 I’m currently learning **React & Spring-boot**
-
-- 📫 How to reach me **yashmokashi013@gmail.com**
+- 📫 Contact me: **yashmokashi013@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
